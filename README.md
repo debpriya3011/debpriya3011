@@ -75,13 +75,13 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **BSP – Multi-Site Master Scraper** | Batch scraping pipeline across 250+ websites into a normalized master DB | Python, Selenium, BeautifulSoup |
-| **Kieran – School Data Scraper** | Cloudflare & CAPTCHA bypass scraper with session persistence | Python, Selenium, Cloudflare Bypass |
-| **ThereIsAnAIForEverything** | Dual-source AI tools aggregator with dedup & category tagging | Python, Selenium |
-| **EpicSports – Sports Data Scraper** | Category traversal + pagination at scale | Python, Selenium, BeautifulSoup |
-| **Kinchrome – Product Catalog Scraper** | Full SKU + image URL extraction to CSV/JSON | Python, Selenium, BeautifulSoup |
-| **Pascal – Lumber Scraper & Analyzer** | Two-phase scrape + price/availability anomaly detection | Python, Selenium, Pandas |
-| **Encuentra24 – Listing Automation** | Category-filtered automated listing management on Encuentra24 | Python, Selenium, Tkinter |
+| **Multi-Site Master Scraper** | Batch scraping pipeline across 250+ websites into a normalized master DB | Python, Selenium, BeautifulSoup |
+| **School Data Scraper** | Cloudflare & CAPTCHA bypass scraper with session persistence | Python, Selenium, Cloudflare Bypass |
+| **AI Tools Aggregator** | Dual-source AI tools aggregator with dedup & category tagging | Python, Selenium |
+| **Sports Data Scraper** | Category traversal + pagination at scale | Python, Selenium, BeautifulSoup |
+| **Product Catalog Scraper** | Full SKU + image URL extraction to CSV/JSON | Python, Selenium, BeautifulSoup |
+| **Lumber Scraper & Analyzer** | Two-phase scrape + price/availability anomaly detection | Python, Selenium, Pandas |
+| **Listing Automation** | Category-filtered automated listing management on Encuentra24 | Python, Selenium, Tkinter |
 
 ---
 
@@ -89,10 +89,10 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Euro – Multi-Stage Pipeline** | Multi-step ingestion → cleaning → validated structured output | Python, Tkinter, Pandas |
-| **Bess – Shortlisting Tool** | Configurable large-dataset filtering with real-time feedback | Python, Tkinter, Pandas |
-| **Franchesco – Vendor Manager** | Vendor DB with hybrid search, shortlisting & 16+ vendor config | Python, Tkinter |
-| **Labels – Label Validation Tool** | Batch validation pipeline with pass/fail visual reporting | Python, Tkinter, Pandas |
+| **Multi-Stage Pipeline** | Multi-step ingestion → cleaning → validated structured output | Python, Tkinter, Pandas |
+| **Shortlisting Tool** | Configurable large-dataset filtering with real-time feedback | Python, Tkinter, Pandas |
+| **Vendor Manager** | Vendor DB with hybrid search, shortlisting & 16+ vendor config | Python, Tkinter |
+| **Label Validation Tool** | Batch validation pipeline with pass/fail visual reporting | Python, Tkinter, Pandas |
 
 ---
 
@@ -100,9 +100,9 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Fusselbaugh – PDF Extractor** | Multi-stage automated extraction from complex layouts | Python, Tkinter, PDF Parsing |
-| **Paul Project – PDF + Manual Crop** | Auto + interactive region-select cropping with structured output | Python, Tkinter, PDF Parsing |
-| **PDF Manipulation – PDF Editor** | Group-based page management, summary editing, export workflows | Python, Tkinter, PDF Libraries |
+| **PDF Extractor** | Multi-stage automated extraction from complex layouts | Python, Tkinter, PDF Parsing |
+| **PDF + Manual Crop** | Auto + interactive region-select cropping with structured output | Python, Tkinter, PDF Parsing |
+| **PDF Editor** | Group-based page management, summary editing, export workflows | Python, Tkinter, PDF Libraries |
 | **PDF Watermark Tool** | Custom watermark placement with batch support & preview | Python, Tkinter, PDF Libraries |
 
 ---
@@ -114,8 +114,8 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 | **Brain Tumor Detection** | CNN trained on MRI datasets for tumor classification | Python, TensorFlow, CNN |
 | **Face-Based Attendance** | Real-time facial recognition for automated attendance tracking | Python, OpenCV, ML |
 | **Emotion Recognition System** | Live video facial expression detection & categorization | Python, OpenCV, Deep Learning |
-| **MarketMap – Image Analysis** | Gemini Vision API integration to extract tables from market maps | Python, Google Gemini Vision API, Tkinter |
-| **Josh Music – Graph Visualizer** | Batch audio analysis with interactive graph rendering | Python, Tkinter, Graph Algorithms |
+| **Image Analysis** | Gemini Vision API integration to extract tables from market maps | Python, Google Gemini Vision API, Tkinter |
+| **Graph Visualizer** | Batch audio analysis with interactive graph rendering | Python, Tkinter, Graph Algorithms |
 
 ---
 
