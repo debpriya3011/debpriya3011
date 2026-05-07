@@ -130,7 +130,7 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=debpriya3011&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=debpriya3011&theme=highcontrast&hide_border=false&border_radius=12&card_width=500&card_height=200&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
