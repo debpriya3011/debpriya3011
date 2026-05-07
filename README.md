@@ -123,8 +123,8 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=debpriya3011&layout=compact&langs_count=8&theme=highcontrast&hide_border=false&border_radius=12"/>
 <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/debpriya3011?cardType=level&theme=highcontrast&fontFamily=&preferLogin=false&borderRadius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debpriya3011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
