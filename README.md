@@ -127,18 +127,18 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/debpriya3011?cardType=level&theme=highcontrast&fontFamily=&preferLogin=false&borderRadius=12"/>
 
 </div>
-
+<br/>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=debpriya3011&theme=highcontrast&hide_border=false&border_radius=12&card_width=500&card_height=200&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debpriya3011&theme=holi&hide_border=false&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 <div align="center">
 
-[![Debpriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debpriya3011&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debpriya3011&theme=highcontrast)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-
 </div>
 
 ---
