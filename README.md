@@ -136,7 +136,7 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 
 <div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debpriya3011&theme=highcontrast)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debpriya3011&theme=highcontrast&cache_seconds=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 </div>
