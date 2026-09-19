@@ -130,7 +130,7 @@ I build **production-grade automation tools**, **scrapers**, and **ML pipelines*
 <br/>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=debpriya3011&theme=highcontrast&hide_border=false&border_radius=12&card_width=500&card_height=200&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=debpriya3011&theme=highcontrast&hide_border=false&border_radius=12&card_width=500&card_height=200&count_private=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debpriya3011&theme=holi&hide_border=false&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
